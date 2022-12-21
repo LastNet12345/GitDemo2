@@ -9,4 +9,18 @@ namespace GitDemo2
     internal class Robot
     {
     }
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    internal class Robot2
+    {
+        public int Id { get; set; }
+    }
 }
