@@ -12,7 +12,7 @@ namespace GitDemo2
         
        
 
-        public int SomeProp { get; set; }
+        public int SomeProp2 { get; set; }
 
     }
 
