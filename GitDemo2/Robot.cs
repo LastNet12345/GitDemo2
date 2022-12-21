@@ -11,4 +11,18 @@ namespace GitDemo2
         public int Age { get; set; }
         
     }
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    internal class Robot2
+    {
+        public int Id { get; set; }
+    }
 }
