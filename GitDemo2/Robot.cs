@@ -9,5 +9,6 @@ namespace GitDemo2
     internal class Robot
     {
         public int Age { get; set; }
+        
     }
 }
