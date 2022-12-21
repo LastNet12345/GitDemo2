@@ -8,6 +8,5 @@ namespace GitDemo2
 {
     internal class Fruit
     {
-        public Fruit() { }
     }
 }
