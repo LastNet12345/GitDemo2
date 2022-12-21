@@ -9,8 +9,6 @@ namespace GitDemo2
     internal class Robot
     {
         public int SerialNumber { get; set; }
-        public int SerialNumber2 { get; set; }
-        public int SerialNumber3 { get; set; }
         
        
 
