@@ -9,6 +9,7 @@
             Console.WriteLine("Hello, From Master!");
             Console.WriteLine("Hello, From master!");
             Console.WriteLine("Hello from David!");
+            Console.WriteLine("Hello from Dimitris2!");
         }
     }
 }
