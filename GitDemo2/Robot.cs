@@ -27,6 +27,6 @@ namespace GitDemo2
     
     internal class Robot2
     {
-        public int Id { get; set; }
+        public int NyttNrFromGit { get; set; }
     }
 }
